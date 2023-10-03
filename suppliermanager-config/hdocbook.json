@@ -1,0 +1,29 @@
+{
+  "docId": "suppliermanager-config",
+  "title": "Supplier Manager Configuration Guide",
+  "description": "Installation and setup guide for Supplier Manager",
+  "publicSource": "https://github.com/Hornbill-Docs/suppliermanager-config.git",
+  "productFamily": "com.hornbill.suppliermanager",
+  "version": "0.0.1",
+  "audience": [
+    "public"
+  ],
+  "languages": [
+    "en"
+  ],
+  "navigation": {
+    "items": [
+      {
+        "text": "Introduction",
+        "expand": true,
+        "items": [
+          {
+            "text": "Welcome",
+            "link": "suppliermanager-config/index"
+          }
+        ]
+      }
+    ]
+  },
+  "tags": []
+}
