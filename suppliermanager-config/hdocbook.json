@@ -4,7 +4,7 @@
   "description": "Installation and setup guide for Supplier Manager",
   "publicSource": "https://github.com/Hornbill-Docs/suppliermanager-config.git",
   "productFamily": "com.hornbill.suppliermanager",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "audience": [
     "public"
   ],
